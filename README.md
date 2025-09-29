@@ -7,7 +7,7 @@ A showcase of **Spring Boot applications** covering key use cases:
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 1. REST CRUD
 - **Location**: `apps/rest-crud/`
@@ -42,19 +42,19 @@ Default credentials:
 pgsql
 user / password
 
-🛠️ Requirements
+Requirements
 Java 21+
 Maven 3.9+
 
 Docker (optional, for running databases with docker-compose)
 
-🐳 Using Docker (optional)
+Using Docker (optional)
 Start a local PostgreSQL database with Docker Compose:
 - **Run**:
   ```bash
   docker compose up -d
   
-📚 About
+About
 This repository is a collection of essential Spring Boot examples:
 REST APIs, MVC web applications, and basic Security setup.
 
