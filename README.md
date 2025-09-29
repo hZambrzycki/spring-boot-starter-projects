@@ -18,7 +18,7 @@ A showcase of **Spring Boot applications** covering key use cases:
 Example endpoint:
 curl http://localhost:8080/api/employees
 
-2. MVC CRUD with Thymeleaf
+### 2. MVC CRUD with Thymeleaf
 Location: apps/mvc-thymeleaf/
 
 Features: Spring MVC, Thymeleaf templates, CRUD web interface.
@@ -28,7 +28,7 @@ Features: Spring MVC, Thymeleaf templates, CRUD web interface.
   mvn spring-boot:run
 Open: http://localhost:8080/employees
 
-3. REST Security
+### 3. REST Security
 Location: apps/rest-security/
 
 Features: Spring Security starter with authentication/authorization.
